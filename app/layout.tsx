@@ -13,7 +13,6 @@ export const metadata: Metadata = {
     { rel: "icon", url: "/favicon.ico" },
     { rel: "apple-touch-icon", url: "/logo192.png" },
   ],
-  manifest: "/manifest.json",
   viewport: "width=device-width, initial-scale=1",
   themeColor: "#000000",
   openGraph: {
